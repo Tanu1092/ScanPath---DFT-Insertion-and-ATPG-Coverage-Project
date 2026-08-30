@@ -1,4 +1,5 @@
 # DFT Project – Scan Path & ATPG Demonstration
+GitHub Live Repository: https://github.com/Tanu1092/ScanPath---DFT-Insertion-and-ATPG-Coverage-Project
 
 This folder contains a simple educational DFT source-code project using Verilog.
 
